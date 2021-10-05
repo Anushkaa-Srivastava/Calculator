@@ -5,3 +5,5 @@ a basic calculator app to perform various mathematical operations like:
 - multiplication
 - division
 - square root
+- logarithm
+- exponentiation
