@@ -1,9 +1,9 @@
 # Calculator
-a basic calculator app to perform various mathematical operations like:
-- addition
-- subtraction
-- multiplication
-- division
-- square root
-- logarithm
-- exponentiation
+A basic calculator app to perform various mathematical operations like:
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Square root
+- Logarithm
+- Exponentiation
